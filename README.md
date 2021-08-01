@@ -1,7 +1,7 @@
 # Broodmother
 
 
-THis is a simple text based strategy game where you play as a small insect like organism that can produce many offspring and evolve them to perform different jobs including scavenging, protecting the hive and scavengers, hunting larger prey etc.
+This is a simple text based strategy game where you play as a small insect like organism that can produce many offspring and evolve them to perform different jobs including scavenging, protecting the hive and scavengers, hunting larger prey etc.
 
 You will fail the game if you run out of food or your broodmother dies.
 You will win the game by reaching the top of the foodchain.
