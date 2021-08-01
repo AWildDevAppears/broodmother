@@ -1,0 +1,7 @@
+enum EACTIONS {
+    ADD_BROOD = 'ADD_BROOD',
+    REMOVE_BROOD = 'REMOVE_BROOD',
+    END_TURN = 'END_TURN',
+};
+
+export default EACTIONS;
